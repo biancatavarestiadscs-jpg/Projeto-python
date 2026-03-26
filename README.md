@@ -4,20 +4,35 @@ Este repositório contém exercícios desenvolvidos em Python com foco em lógic
 
 ## 📌 Exercícios:
 
-### 🧮 Exercício 01
+###  Exercício 01
 Cálculo da área e perímetro de um retângulo.
 
-### 💰 Exercício 02
+###  Exercício 02
 Cálculo de salário com acréscimo de comissão de 5%.
 
-### 🚗 Exercício 03
+###  Exercício 03
 Cálculo de velocidade média com base na distância e tempo.
 
-### 💵 Exercício 05
+###  Exercício 04
 Conversão de dólar para real.
 
-### 🍽️ Exercício 06
+###  Exercício 05
 Cálculo de valor total com taxa de serviço de 10%.
+
+### Exercício 07 
+Cálculo do volume,e altura de uma pirâmide 
+
+### Exercício 08
+Cálculo de conversão de horas em minutos 
+
+### Exercício 09
+Cálculo somando ano ,mês e dias do seu nascimento 
+
+### Exercício 10
+Cálculo de porcentagem de multa 
+
+### Exercício 11
+Cálculo do arco-seno, cosseno e tangente 
 
 ## 🧠 O que foi praticado:
 - Entrada de dados (input)
