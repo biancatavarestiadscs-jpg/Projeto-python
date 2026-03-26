@@ -19,19 +19,19 @@ Conversão de dólar para real.
 ###  Exercício 05
 Cálculo de valor total com taxa de serviço de 10%.
 
-### Exercício 07 
+### Exercício 06
 Cálculo do volume,e altura de uma pirâmide 
 
-### Exercício 08
+### Exercício 07
 Cálculo de conversão de horas em minutos 
 
-### Exercício 09
+### Exercício 08
 Cálculo somando ano ,mês e dias do seu nascimento 
 
-### Exercício 10
+### Exercício 09
 Cálculo de porcentagem de multa 
 
-### Exercício 11
+### Exercício 10
 Cálculo do arco-seno, cosseno e tangente 
 
 ## 🧠 O que foi praticado:
