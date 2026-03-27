@@ -1,5 +1,5 @@
 ano=int(input("em que ano você nasceu ?:"))
-mês=int(input("em que mês você nasceu?:"))
+mes=int(input("em que mês você nasceu?:"))
 dia=int(input("que dia você nasceu?:"))
 print("1 ano = 365 dias, 1 mês = 30 dias.")
-print("a sua idade expressa em dias é :",(ano*365+mês*30+dia))
+print("a sua idade expressa em dias é :",(ano*365+mes*30+dia))
