@@ -43,13 +43,27 @@ Leitura dos números pares entre 0 a 100
 ### Exercício 13
 Leitura dos números de 1 à 50,e de 52 a 100 de 2 em 2 
 
+### Exercício 14
+Verifica se o número digitado é igual a 9
+
+### Exercício 15
+Calcula o salário com base no turno e horas trabalhadas 
+
+### Exercício 16
+Classifica o usuário com base na idade
+
+### Exercício 17
+Cálculo da raiz quadrada
+
+
 
 ## 🧠 O que foi praticado:
 - Entrada de dados (input)
 - Operações matemáticas
 - Lógica de programação
 - Saída de dados (print)
-- loop de repetição (for)
-
+- Loop de repetição (for)
+- Uso de estruturas condicionais if, elif e else
+ 
 ## 🎯 Objetivo:
 Desenvolver habilidades em programação e melhorar o raciocínio lógico por meio de exercícios práticos.
