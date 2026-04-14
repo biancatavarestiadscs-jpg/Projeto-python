@@ -58,6 +58,9 @@ Cálculo da raiz quadrada
 ### Exercício 18
 Verificar se o ano digitado é bissexto 
 
+### Exercício 19
+Verificar se o número é ímpar ou par
+
 
 
 ## 🧠 O que foi praticado:
