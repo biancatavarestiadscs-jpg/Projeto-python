@@ -55,6 +55,9 @@ Classifica o usuário com base na idade
 ### Exercício 17
 Cálculo da raiz quadrada
 
+### Exercício 18
+Verificar se o ano digitado é bissexto 
+
 
 
 ## 🧠 O que foi praticado:
