@@ -61,6 +61,8 @@ Verificar se o ano digitado é bissexto.
 ### Exercício 19
 Verificar se o número é ímpar ou par.
 
+### Exercício 20
+Simulador de empréstimo bancário.
 
 
 ## 🧠 O que foi praticado:
@@ -70,6 +72,7 @@ Verificar se o número é ímpar ou par.
 - Saída de dados (print)
 - Loop de repetição (for)
 - Uso de estruturas condicionais if, elif e else
+- Uso de cores 
  
 ## 🎯 Objetivo:
 Desenvolver habilidades em programação e melhorar o raciocínio lógico por meio de exercícios práticos.
