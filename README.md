@@ -64,6 +64,9 @@ Verificar se o número é ímpar ou par.
 ### Exercício 20
 Simulador de empréstimo bancário.
 
+### Exercício 21
+Jogo da adivinhação ,com números e palavras.
+
 
 ## 🧠 O que foi praticado:
 - Entrada de dados (input)
@@ -72,7 +75,8 @@ Simulador de empréstimo bancário.
 - Saída de dados (print)
 - Loop de repetição (for)
 - Uso de estruturas condicionais if, elif e else
-- Uso de cores 
+- Uso de cores
+- listas 
  
 ## 🎯 Objetivo:
 Desenvolver habilidades em programação e melhorar o raciocínio lógico por meio de exercícios práticos.
